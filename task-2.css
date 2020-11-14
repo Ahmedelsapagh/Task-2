@@ -1,0 +1,99 @@
+
+body{
+    
+    background-image: url("25.jpg");
+    background-size: cover;
+}
+div.p1{
+    padding:5px ;
+    margin: 2px 0px 0px 10px;
+    color: white;
+    font-size: 30px ;
+    font-family: Microsoft Sans Serif, Arial;
+}
+    .facebook{
+    color:blue;
+    font-size: 22px;}
+
+.form{
+    background-color: white;
+    align-content: center;
+    text-align: center;
+    width: 320px;
+    height: 380px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    border: 0.5px inset white;
+}
+form{
+    border: 3px ridge  #DDD;
+      border-radius: 30px;
+      height: 320px;
+     
+      text-align: center;
+      align-content: center;
+      margin: 10px 30px 30px 30px;
+ 
+}
+
+.p2{
+    font-size:20px;
+}
+.em{
+     border: 2px outset black;
+    border-radius: 7px
+}
+.pass{
+    border: 2px inset black;
+    border-radius: 7px;
+}
+.button{
+    width: 70%;
+    background-color: blue ;
+    color: white ;
+    border: 2px solid blue ;
+    border-radius: 20px ;
+    font-size: 20px;
+    padding: 0px;
+    
+    
+}
+.ul{
+    width: 30%;
+    height:100vh;
+    float: right;
+    color: white ;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background:rgba(86,86,86,0.3) ;
+    text-align: center;
+  
+    
+}
+ul{
+    position: absolute;
+    top: 30%;
+    right: 30%;
+    padding: 0px;  
+}
+a{
+    color:white;
+      text-decoration: none;
+      font-size: 30px;
+   
+   
+}
+
+a:hover{
+    transition: 0.5s;
+    color: red;
+}
+.s, .f{
+    font-size: 17px;
+    color: blue;
+    margin: px;
+    padding: px;
+}
